@@ -6,21 +6,21 @@
   "env": {
     "TOKEN": {
       "description": "Dapatkan di @botfather",
-      "value": ""
+      "value": "7150001079:AAG9Y3c3LBMa52t4koPv2XYjEVU32tivOtc"
     },
     "OWNER": {
       "description": "Isi dengan username kalian tanpa tanda @",
-      "value": "pysmartdl"
+      "value": "nazhak"
     },
     "GROUP": {
       "description": "Isi dengan username group kalian tanpa tanda @ kalau gak punya gak usah isi",
       "required": false,
-      "value": "aruna_mutual"
+      "value": "mutual69rprl"
     },
     "CHANNEL": {
       "description": "Isi dengan username channel kalian tanpa tanda @ kalau gak punya gak usah isi",
       "required": false,
-      "value": "gabutan_escape"
+      "value": "onsbase"
     }
   }
 }
